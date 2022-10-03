@@ -22,6 +22,13 @@ My first major assignment at Esperanto Technologies was the patching and improve
 My time at Esperanto Technologies greatly helped develop my engineering skills. What it also did was expose me to the highly collaborative and tightly-knit RISC-V community. By open sourcing many parts of the design process, from RTL to compiler, the RISC-V ecosystem is constantly evolving on a global scale. This lowers the bar of entry for newcomers to the CPU design community, as well as encourages the old guard to share (and argue about) their latest and greatest ideas.
 
 
+## Ancient History
+[SlugSense Design](https://github.com/markzakharov/SlugSense).
+The most fun I had during my time as an undergraduate at UCSC was doing collaborative projects. One was my senior capstone project, Slugsense. This was an interesting challenge as it put me with six other students I had never met before, in a purely virtual setting, trying to build and program an embedded system for those with visual disabilities. Powered by a small, rechargeable battery, Slugsense was a sonar detector that had an adjustable range and haptic feedback system. The host was run on an Arduino nano board and was meant to be held in a small plastic chassis, which is to be worn on the user's arm. The intensity of vibration is determined by the distance between it and the closest physical object. Any configuration was set through a GUI, driven by another Arduino nano, connected over bluetooth. The schematics, code, tested data, as well as 3d print instructions are all open-sourced and available on github.
+
+![prototype](.docs/assets/IMG_6335.jpg)
+
+
 ### There's a horizontal rule below this.
 
 * * *
