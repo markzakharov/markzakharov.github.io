@@ -21,12 +21,16 @@ My first major assignment at Esperanto Technologies was the patching and improve
 ### Why RISC-V?
 My time at Esperanto Technologies greatly helped develop my engineering skills. What it also did was expose me to the highly collaborative and tightly-knit RISC-V community. By open sourcing many parts of the design process, from RTL to compiler, the RISC-V ecosystem is constantly evolving on a global scale. This lowers the bar of entry for newcomers to the CPU design community, as well as encourages the old guard to share (and argue about) their latest and greatest ideas.
 
+## Past Research
+[HDLGen](https://github.com/masc-ucsc/livehd_regression/tree/main/HDLgen).
+The first bit of research work I did was in Hardware Compiler Validation. The compiler in question is [LiveHD](https://github.com/masc-ucsc/livehd)., a multi language compiler framework, meant to genericize and speed up the hardware development workflow. My role in this project was to validate the correctness of compilation through the random generation of semantically equivalent RTL files. The languages that my generator supports are Verilog, Chisel, and the in-house language Pyrope. My project, HDLGen, allows the user to create thousands of wildly varying circuit structures and gives them the options to set size, complexity, as well as sets of logic to include/uninclude from the Verilog, Chisel, and Pyrope syntax. 
+
 
 ## Ancient History
 [SlugSense Design](https://github.com/markzakharov/SlugSense).
 The most fun I had during my time as an undergraduate at UCSC was doing collaborative projects. One was my senior capstone project, Slugsense. This was an interesting challenge as it put me with six other students I had never met before, in a purely virtual setting, trying to build and program an embedded system for those with visual disabilities. Powered by a small, rechargeable battery, Slugsense was a sonar detector that had an adjustable range and haptic feedback system. The host was run on an Arduino nano board and was meant to be held in a small plastic chassis, which is to be worn on the user's arm. The intensity of vibration is determined by the distance between it and the closest physical object. Any configuration was set through a GUI, driven by another Arduino nano, connected over bluetooth. The schematics, code, tested data, as well as 3d print instructions are all open-sourced and available on github.
 
-![prototype](.docs/assets/IMG_6335.jpg)
+![prototype](./docs/assets/IMG_6335.jpg)
 
 
 ### There's a horizontal rule below this.
