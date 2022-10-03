@@ -36,4 +36,7 @@ The most fun I had during my time as an undergraduate at UCSC was doing collabor
 ### When I'm not glued to my computer chair
 #### Santa Cruz Live Music Scene
 I have been an active music performer in the Santa Cruz area since before the pandemic. Moving away from home and coming to UCSC was a stressful experience for me, so I decided to teach myself how to play bass guitar as a form of therapy. Being a lifelong trained classical musician, it was easy enough to be enjoyable but also challenging enough to force me to concentrate on. Since then I have also learned how to play the six-string guitar and have performed with three different groups, both on the streets of Santa Cruz, and at live venues. Now, six years later, it still gets me out of the house and onto the stage.
-![bass](./)
+![bass](./docs/assets/IMG_7770.PNG)
+
+#### Pet African Dwarf Frogs
+After getting dumped with unwanted fish by an old roommate, I purchased a nice little three gallon tank to house the little swimmers. Years went by and the fish all lived their full life spans. Once the tank was empty I wanted some more exciting denizens for the glass castle. I decided to try my hand at raising an African Dwarf Frog named Freddy. Weeks went by and he eventually started singing at night. After some research I found out these frogs are highly social and poor Freddy was singing to find his friends. I went to the pet store later that week to pick up a couple of friends for him, Cosmo and Wanda. He has been thrilled since, but still continues to sing, probably for his own enjoyment. 
