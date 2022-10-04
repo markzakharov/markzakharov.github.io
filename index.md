@@ -39,4 +39,10 @@ I have been an active music performer in the Santa Cruz area since before the pa
 ![bass](./docs/assets/IMG_7770.PNG)
 
 #### Pet African Dwarf Frogs
-After getting dumped with unwanted fish by an old roommate, I purchased a nice little three gallon tank to house the little swimmers. Years went by and the fish all lived their full life spans. Once the tank was empty I wanted some more exciting denizens for the glass castle. I decided to try my hand at raising an African Dwarf Frog named Freddy. Weeks went by and he eventually started singing at night. After some research I found out these frogs are highly social and poor Freddy was singing to find his friends. I went to the pet store later that week to pick up a couple of friends for him, Cosmo and Wanda. He has been thrilled since, but still continues to sing, probably for his own enjoyment. 
+After getting dumped with unwanted fish by an old roommate, I purchased a nice little three gallon tank to house the little swimmers. Years went by and the fish all lived their full life spans. Once the tank was empty I wanted some more exciting denizens for the glass castle. I decided to try my hand at raising an African Dwarf Frog named Freddy. Weeks went by and he eventually started singing at night. After some research I found out these frogs are highly social and poor Freddy was singing to find his friends. I went to the pet store later that week to pick up a couple of friends for him, Cosmo and Wanda. He has been thrilled since, but still continues to sing, probably for his own enjoyment.
+![frogs](./docs/assets/IMG_7788.jpg)
+(from left to right) Freddy, Cosmo, and Wanda ready to lunge at delicious, homemade frog-food jello
+
+### Contact info
+Linkedin: [https://www.linkedin.com/in/mark-zakharov-b444741a1?trk=public_profile_browsemap_profile-result-card_result-card_full-click](https://www.linkedin.com/in/mark-zakharov-b444741a1?trk=public_profile_browsemap_profile-result-card_result-card_full-click)
+Email: markzakharov1102@gmail.com
